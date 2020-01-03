@@ -1,6 +1,6 @@
 # ESLint (and Prettier) config
 
-[![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-leozera)](https://github.com/leonardofaria/eslint-config-leozera/issues) [![Dependencies](https://david-dm.org/leonardofaria/eslint-config-leozera.svg)](https://david-dm.org/leonardofaria/eslint-config-leozera.svg) [![Dev Dependencies](https://david-dm.org/leonardofaria/eslint-config-leozera/dev-status.svg)](https://david-dm.org/leonardofaria/eslint-config-leozera/dev-status.svg) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![npm version](https://badge.fury.io/js/eslint-config-leozera.svg)](https://badge.fury.io/js/eslint-config-leozera) [![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-leozera)](https://github.com/leonardofaria/eslint-config-leozera/issues) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
 These are settings for ESLint and Prettier used by me and Thinkific.
 
