@@ -1,5 +1,7 @@
 # ESLint (and Prettier) config
 
+[![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-leozera)](https://github.com/leonardofaria/eslint-config-leozera/issues) [![Dependencies](https://david-dm.org/leonardofaria/eslint-config-leozera.svg)](https://david-dm.org/leonardofaria/eslint-config-leozera.svg) [![Dev Dependencies](https://david-dm.org/leonardofaria/eslint-config-leozera/dev-status.svg)](https://david-dm.org/leonardofaria/eslint-config-leozera/dev-status.svg) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+
 These are settings for ESLint and Prettier used by me and Thinkific.
 
 ## What it does
@@ -11,6 +13,7 @@ This setup lints your JavaScript code based on practices. Check the [.eslintrc.j
 1. In your project folder, run:
 
 ```
+npm i -D eslint-config-leozera # or yarn install --dev eslint-config-leozera
 npx install-peerdeps --dev eslint-config-leozera
 ```
 
