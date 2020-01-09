@@ -1,6 +1,6 @@
 # ESLint (and Prettier) config
 
-[![npm version](https://badge.fury.io/js/eslint-config-leozera.svg)](https://badge.fury.io/js/eslint-config-leozera) [![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-leozera)](https://github.com/leonardofaria/eslint-config-leozera/issues) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![npm version](https://badge.fury.io/js/eslint-config-leozera.svg)](https://badge.fury.io/js/eslint-config-leozera) ![NPM downloads](https://img.shields.io/npm/dm/eslint-config-leozera) [![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-leozera)](https://github.com/leonardofaria/eslint-config-leozera/issues) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) [![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/leonardofaria/leozera-ui/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/leozera?label=Follow%20on%20Twitter)](https://twitter.com/leozera/)
 
 These are settings for ESLint and Prettier used by me and Thinkific.
 
