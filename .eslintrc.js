@@ -8,6 +8,9 @@ module.exports = {
     'plugin:prettier/recommended',
     'prettier/react',
   ],
+  plugins: [
+    'react-hooks',
+  ],
   rules: {
     'import/extensions': 'off',
     'import/no-dynamic-require': 'off',
