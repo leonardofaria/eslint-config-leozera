@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leozera",
-  "version": "1.0.8-0",
+  "version": "1.0.8",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
   "scripts": {
