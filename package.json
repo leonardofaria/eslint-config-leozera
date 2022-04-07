@@ -3,6 +3,9 @@
   "version": "1.0.7",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'Not today'"
+  },
   "repository": "https://github.com/leonardofaria/eslint-config-leozera",
   "author": "Leonardo Faria",
   "license": "MIT",
