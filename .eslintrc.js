@@ -8,16 +8,14 @@ module.exports = {
     'plugin:prettier/recommended',
     'prettier',
   ],
-  plugins: [
-    'react-hooks',
-  ],
+  plugins: ['react-hooks'],
   rules: {
     'import/extensions': 'off',
     'import/no-dynamic-require': 'off',
     'import/no-extraneous-dependencies': 'off',
     'import/no-named-as-default': 'off',
     'import/no-unresolved': 'off',
-    'import/prefer-default-export': 'error',
+    'import/prefer-default-export': 'off',
     'newline-per-chained-call': 'off',
     'jsx-a11y/label-has-for': [
       'warn',
@@ -55,5 +53,6 @@ module.exports = {
         sortShapeProp: true,
       },
     ],
+    'react/react-in-jsx-scope': 'off',
   },
 };
