@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leozera",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ESLint config based in recommended best practices",
   "main": "index.js",
   "scripts": {
@@ -10,25 +10,25 @@
   "author": "Leonardo Faria",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^8.12.0",
+    "eslint": "^8.30.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.29.4",
-    "eslint-plugin-react-hooks": "^4.4.0",
-    "prettier": "^2.6.2"
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.1"
   },
   "devDependencies": {
-    "eslint": "^8.12.0",
+    "eslint": "^8.30.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.29.4",
-    "eslint-plugin-react-hooks": "^4.4.0",
-    "prettier": "^2.6.2"
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.1"
   }
 }
